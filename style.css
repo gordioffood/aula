@@ -1,0 +1,202 @@
+/* classe com ponto id com # */
+img{
+    
+    
+    width: 100px;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+footer{
+    
+    
+    
+    background-color: gold;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 0;
+    
+    
+    
+    
+    
+}
+.amarelo
+{
+    
+    
+    background-color: gold;
+    color: red;
+    
+    
+    
+}
+.alinhar{
+    
+    
+    
+    display: flex;
+    
+    justify-content: space-between;
+    
+    margin: 100px;
+    
+    
+    
+}
+body
+{
+    margin: 0;
+    background-color: black;
+    padding: 0;
+    
+    
+    
+}
+nav{
+    
+    
+    background-color: gold;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 0;
+    
+    
+    
+    
+    
+}
+
+
+nav a {
+    
+    padding: 0;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    color: purple;
+    border-radius: 10px;
+    font-weight: bold;
+    
+    
+    
+    
+    
+}
+h1{
+    
+    
+    
+    
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+    padding: 30px;
+    
+    
+}
+.banner{
+    
+    padding: 0;
+    height: 500px;
+    background-image: url("assets/image/abre-palmirinha.jpg");
+    background-size: cover;
+}
+.cadastro div{
+    
+    
+    
+    
+    display: flex;
+    flex-direction: column;
+    background-color: gold;
+    width: 300px;
+    
+    
+}
+.cadastro{
+    
+    display: flex;
+    justify-content: center;
+}
+h3{
+    
+    background-color: gold;
+    
+    
+    
+    
+    
+    
+}
+
+input{
+    
+    
+    
+    border-radius: 10px;
+    margin-bottom: 8px;
+    padding:  5px;
+    
+    
+    
+    
+    
+    
+}
+.botao:hover{
+    
+    
+    
+    
+    background-color: red;
+    color: chartreuse;
+}
+.botao{
+    
+    
+    
+    
+    background-color:rebeccapurple;
+    color: black;
+}
+a:hover{
+    
+    
+    
+    
+    background-color:rebeccapurple;
+    color: black;
+    
+    
+    
+    
+}
+::placeholder{
+    
+    
+    color: black;
+    font-size: 9px;
+    font-family: 'Press Start 2P', cursive;
+    
+    
+    
+    
+    
+    
+}
